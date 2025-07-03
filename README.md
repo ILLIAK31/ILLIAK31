@@ -2,4 +2,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,cs,dotnet,html,css,js,react,ts,mysql,powershell,github,linux,visualstudio,vscode,linkedin)](https://skillicons.dev)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ILLIAK31/ILLIAK31/blob/output/github-snake-dark.svg)
