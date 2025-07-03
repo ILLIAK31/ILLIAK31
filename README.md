@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,cs,dotnet,html,css,js,react,ts,mysql,powershell,github,linux,visualstudio,vscode,linkedin)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILLIAK31&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILLIAK31)](https://github.com/ILLIAK31/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILLIAK31&theme=neon&show_icons=true)
 
